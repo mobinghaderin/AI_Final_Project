@@ -1,4 +1,4 @@
-# AI CMP5103 – Theme 3 Project (Reinforcement Learning in Stochastic Gridworlds)
+# AI CMP5103 – Project (Reinforcement Learning in Stochastic Gridworlds)
 
 Student: Seyedmobin Ghaderinasab  
 Student ID: 2018202
